@@ -1,0 +1,16 @@
+{
+  "name": "Agumon",
+  "rank": "Rookie",
+  "type": "Vaccine",
+  "care mistakes": "No limits",
+  "body weight": "15g",
+  "necessary parameters": "Offense must be the highest stat and 10% of maximum HP",
+  "bonus condition": "Current Digimon - Kormon",
+  "digivolution item": "N/A",
+  "image": "",
+  "pixelImage": "",
+  "evolves from": ["Koromon"],
+  "evolves to": ["Greymon", "Tyrannomon", "Monochromon", "Meramon", "Centarumon", "Birdramon", "Numemon", "Sukamon", "Nanimon", "Bakemon"],
+  "techniques": ["Spit Fire", "Red Inferno", "Fire Tower", "Sonic Jab", "Magma Bomb", "Muscle Charge", "Heat Laser"],
+  "finisher": "Pepper Breath"
+}
